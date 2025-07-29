@@ -11,7 +11,7 @@
 - https://in.linkedin.com/in/bhaskar-teja
 
 - 📝 I regularly write articles on
-- [https://medium.com/@vijaybhaskarteja/setting-up-your-ai-assistant-tool-with-ollama-and-codellama-a-step-by-step-guide-32f344017e6f]
+- https://medium.com/@vijaybhaskarteja/setting-up-your-ai-assistant-tool-with-ollama-and-codellama-a-step-by-step-guide-32f344017e6f
 
 - 📫 How to reach me **vijaybhaskarteja@gmail.com**
 
