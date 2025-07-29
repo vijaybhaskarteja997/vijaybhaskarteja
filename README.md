@@ -13,7 +13,7 @@
 - 📝 I regularly write articles on
 - https://medium.com/@vijaybhaskarteja/setting-up-your-ai-assistant-tool-with-ollama-and-codellama-a-step-by-step-guide-32f344017e6f
 
-- 📫 How to reach me **vijaybhaskarteja@gmail.com**
+- 📫 How to reach me - **vijaybhaskarteja@gmail.com**
 
 - ⚡ Fun fact **I enjoy staying up-to-date with the latest tech trends and innovations**
 
