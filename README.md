@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaybhaskarteja997" alt="vijaybhaskarteja997" /></a> </p>
 
-- 🌱 I’m currently learning **AI Agents,AI Automation,Data Analyst,AI Tools**
+- 🌱 I’m currently learning **AI Agents, AI Automation, Data Analyst, AI Tools**
 
 - 👨‍💻 All of my projects are available on my linkedin [https://in.linkedin.com/in/bhaskar-teja](https://in.linkedin.com/in/bhaskar-teja)
 
