@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **vijaybhaskarteja@gmail.com**
 
-- ⚡ Fun fact **I enjoy staying up-to-date with the latest tech trends and innovations**
+- ⚡ Fun fact : **I enjoy staying up-to-date with the latest tech trends and innovations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
